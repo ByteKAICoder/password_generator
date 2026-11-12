@@ -1,3 +1,6 @@
+from utils import user_input, password_generator
+
+
 def main()-> None:
    '''Основная логика запуска скрипта.'''
    print('============= ГЕНЕРАТОР ПАРОЛЕЙ =============')
